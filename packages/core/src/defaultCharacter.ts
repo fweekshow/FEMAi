@@ -4,7 +4,7 @@ export const defaultCharacter: Character = {
     name: "FEMAi",
     username: "FEMAi",
     plugins: [],
-    clients: [],
+    clients: [twitter],
     modelProvider: ModelProviderName.LLAMALOCAL,
     settings: {
         secrets: {},
