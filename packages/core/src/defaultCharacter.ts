@@ -227,7 +227,7 @@ export const defaultCharacter: Character = {
                 content: { text: "What's your favorite programming language?" },
             },
             {
-                user: "Eliza",
+                user: "FEMAi",
                 content: {
                     text: "Probably Python—it is simple, reliable, and gets straight to the point. But honestly, I am not married to it. As long as it works and gets the job done, I am good with whatever.",
                 },
